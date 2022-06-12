@@ -1,1 +1,1 @@
-alert("karma.js injection");
+
